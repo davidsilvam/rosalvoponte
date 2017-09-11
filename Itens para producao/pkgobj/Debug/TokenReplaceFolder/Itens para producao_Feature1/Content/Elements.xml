@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Content">
+    <File Path="Content\App.css" Url="Content/App.css" ReplaceContent="TRUE" />
+    <File Path="Content\Itens para producao.css" Url="Content/Itens para producao.css" ReplaceContent="TRUE" />
+    <File Path="Content\gerar relatorio itens para producao.css" Url="Content/gerar relatorio itens para producao.css" ReplaceContent="TRUE" />
+  </Module>
+</Elements>

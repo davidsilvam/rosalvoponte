@@ -1,0 +1,1 @@
+bin\Debug\Itens_para_producao.wsp

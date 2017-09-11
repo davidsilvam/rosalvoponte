@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ClientWebPart Name="web_part _itens_para_producao" Title="web_part _itens_para_producao Título" Description="web_part _itens_para_producao Descrição" DefaultWidth="300" DefaultHeight="200">
+
+    <!-- O elemento de conteúdo identifica a localização da página que será renderizada dentro da Web Part cliente
+         As propriedades são referenciadas na cadeia de caracteres de consulta usando o padrão _nomeDaPropriedade_
+         Exemplo: Src="~appWebUrl/Pages/ClientWebPart1.aspx?Property1=_property1_" -->
+    <Content Type="html" Src="~appWebUrl/Pages/Itens para producao.aspx?{StandardTokens}" />
+
+    <!-- Defina propriedades no elemento Properties.
+         Lembre-se de colocar o Nome da Propriedade no atributo Src do elemento de Content acima. -->
+    <Properties>
+    </Properties>
+
+  </ClientWebPart>
+</Elements>

@@ -1,0 +1,4 @@
+c:\users\david\documents\visual studio 2017\Projects\Itens para producao\Itens para producao\bin\Debug\Itens para producao.pdb
+c:\users\david\documents\visual studio 2017\Projects\Itens para producao\Itens para producao\obj\Debug\Itens para producao.dll
+c:\users\david\documents\visual studio 2017\Projects\Itens para producao\Itens para producao\obj\Debug\Itens para producao.pdb
+C:\Users\david\Documents\Visual Studio 2017\Projects\Itens para producao\Itens para producao\obj\Debug\Itens para producao.csprojResolveAssemblyReference.cache

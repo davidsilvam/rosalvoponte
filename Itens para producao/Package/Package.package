@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="264bb52d-28f1-4299-915a-6b1c3a3bc2c8" 
+        solutionId="264bb52d-28f1-4299-915a-6b1c3a3bc2c8" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="Itens_para_producao"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="94e73705-23eb-4b05-a1e0-93b58244f2de" />
+  </features>
+</package>
